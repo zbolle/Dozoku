@@ -1,6 +1,6 @@
 # Privacy Policy for Konrad Ergon Apps
 
-_Last updated: July 16, 2025_
+_Last updated: July 17, 2025_
 
 This privacy policy applies to all mobile apps developed and published by **JollyGames**.
 
