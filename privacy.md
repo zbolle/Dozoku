@@ -2,6 +2,6 @@
 
 _Last updated: July 17, 2025_
 
-We do not currently collect any personal data.
+We currently do not collect any personal data.
 
 © 2025 Konrad Ergon. All rights reserved.
